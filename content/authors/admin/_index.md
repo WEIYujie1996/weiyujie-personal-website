@@ -3,9 +3,8 @@ title: Wei Yujie
 role: Joint Ph.D. Candidate
 bio: My research interests include statistical process monitoring, fault diagnosis
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Statistical Process Monitoring
+  - Fault Diagnosis
 social:
   - icon: envelope
     icon_pack: fas
@@ -23,20 +22,22 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Shanghai Jiao Tong University
+    url: https://www.sjtu.edu.cn/
+  - name: "National University of Singapore "
+    url: https://www.nus.edu.sg/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: Joint Ph.D. in Engineering
+      institution: Shanghai Jiao Tong University, National University of Singapore
+      year: 2024
+    - course: MEng in Industrial Engineering
+      institution: Shanghai Jiao Tong University
+      year: 2021
+    - course: BSe in Industrial Engineering
+      institution: Shanghai Jiao Tong University
+      year: 2018
+email: jd-wyj@sjtu.edu.cn
 superuser: true
 highlight_name: true
 ---
