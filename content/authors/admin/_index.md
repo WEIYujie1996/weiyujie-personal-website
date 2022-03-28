@@ -1,7 +1,7 @@
 ---
 title: Wei Yujie
 role: Joint Ph.D. Candidate
-avatar_filename: 微信图片_20211218222146.jpg
+avatar_filename: 卫宇杰-蓝底-正装照.png
 bio: My research interests include statistical process monitoring, fault diagnosis
 interests:
   - Statistical Process Monitoring
