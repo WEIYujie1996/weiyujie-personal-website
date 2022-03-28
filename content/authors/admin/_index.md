@@ -9,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: jd-wyj@sjtu.edu.cn
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -18,7 +18,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/WEIYujie1996
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
